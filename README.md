@@ -33,7 +33,7 @@ Este repositorio contiene el sistema de gestión desarrollado para una ferreter�
 - ✅ **Captcha de seguridad** en login de usuarios.
 
 ---
-
+[![Captura-de-pantalla-2025-06-10-013125.png](https://i.postimg.cc/VvY787Ct/Captura-de-pantalla-2025-06-10-013125.png)](https://postimg.cc/r0PGGNgy)
 
 ## 🎯 Objetivos del Proyecto
 
@@ -43,6 +43,7 @@ Este repositorio contiene el sistema de gestión desarrollado para una ferreter�
 - Permitir la exportación de información en formato PDF.
 
 ---
+[![Captura-de-pantalla-2025-06-10-013138.png](https://i.postimg.cc/5N8tGnmg/Captura-de-pantalla-2025-06-10-013138.png)](https://postimg.cc/gnkdLyQL)
 ## 🧩 Módulos del Sistema
 
 ### 1. 🧑‍💼 Gestión de Usuarios y Clientes
@@ -84,7 +85,7 @@ Este repositorio contiene el sistema de gestión desarrollado para una ferreter�
 5. Ejecutar el proyecto
 
 ---
-
+[![Captura-de-pantalla-2025-06-10-013231.png](https://i.postimg.cc/hjQPcrV2/Captura-de-pantalla-2025-06-10-013231.png)](https://postimg.cc/gXdPK3Sh)
 ## 📺 Enlace en YouTube
 
 [Ver demostración en YouTube](https://www.youtube.com/watch?v=dto7l0sQXTw)
